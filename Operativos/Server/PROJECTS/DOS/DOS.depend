@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1528157203 source:/home/yonattan/Documentos/Operativos/V2/Server/PROJECTS/DOS/main.c
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<sys/types.h>
+	<dirent.h>
+
